@@ -81,7 +81,7 @@ public class SecurityConfig {
         CorsConfiguration configuration = new CorsConfiguration();
 
         configuration.setAllowedOrigins(List.of(
-                "https://dark-blue-hotel-frontend-ql2w.vercel.app/"
+                "https://dark-blue-hotel-frontend-ql2w.vercel.app"
         ));
 
         configuration.setAllowedMethods(List.of(
