@@ -1,0 +1,11 @@
+[33mcommit d5a1ad6c98deedebcdc550feb72c1cd45f75f9cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Thejasri <thejasriharirajan@gmail.com>
+Date:   Thu Feb 26 13:46:04 2026 +0530
+
+    git rm --cached src/main/resources/application.properties
+
+[33mcommit d3d870510751ee85165e078e198fece6ea8d9874[m
+Author: Thejasri <thejasriharirajan@gmail.com>
+Date:   Thu Feb 26 13:25:54 2026 +0530
+
+    Initial commit
